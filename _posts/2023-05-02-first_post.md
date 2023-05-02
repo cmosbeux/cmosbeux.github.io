@@ -7,7 +7,7 @@ tags: [Welcome, Introduction]
 pin: true
 image:
   path: /Images/AMU_Damage_2018.png
-  alt: Damage in the Amundsen Sea, Reconstruction using a data assimilation method using observations of surface velocities
+  alt: Damage in the Amundsen Sea, Reconstruction using a data assimilation method using observations of surface velocities in 2018
   
 ---
 
