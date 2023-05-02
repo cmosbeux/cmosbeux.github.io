@@ -7,7 +7,7 @@ order: 4
 
 <p><b>2023</b>
 <p>
-Mosbeux, C., Padman, L., Klein, E., Bromirski, P. B., and Fricker, H. A.: Seasonal variability in Antarctic ice shelf velocities forced by sea surface height variations, The Cryosphere Discussions, 1–45, <a href="https://doi.org/10.5194/tc-2022-153">https://doi.org/10.1029/2022AV000846</a> , Accepted, 2022.
+Mosbeux, C., Padman, L., Klein, E., Bromirski, P. B., and Fricker, H. A.: Seasonal variability in Antarctic ice shelf velocities forced by sea surface height variations, The Cryosphere Discussions, 1–45, <a href="https://doi.org/10.5194/tc-2022-153">https://doi.org/10.5194/tc-2022-153</a> , Accepted, 2022.
 </p>
 
 <p>
