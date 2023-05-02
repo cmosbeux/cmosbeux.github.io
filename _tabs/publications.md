@@ -7,11 +7,11 @@ order: 4
 
 <p><b>2023</b>
 <p>
-Mosbeux, C., Padman, L., Klein, E., Bromirski, P. B., and Fricker, H. A.: Seasonal variability in Antarctic ice shelf velocities forced by sea surface height variations, The Cryosphere Discussions, 1–45, https://doi.org/10.5194/tc-2022-153, Accepted, 2022
+Mosbeux, C., Padman, L., Klein, E., Bromirski, P. B., and Fricker, H. A.: Seasonal variability in Antarctic ice shelf velocities forced by sea surface height variations, The Cryosphere Discussions, 1–45, <a href="https://doi.org/10.5194/tc-2022-153"</a> , Accepted, 2022
+</p>
 
-
-Venturelli, R. A., Boehman, B., Davis, C., Hawkings, J. R., Johnston, S. E., Gustafson, C. D., Michaud, A. B., Mosbeux, C., Siegfried, M. R., Vick-Majors, T. J., Galy, V., Spencer, R. G. M., Warny, S., Christner, B. C., Fricker, H. A., Harwood, D. M., Leventer, A., Priscu, J. C., Rosenheim, B. E., and Team, S. S.: Constraints on the Timing and Extent of Deglacial Grounding Line Retreat in West Antarctica, AGU Advances, 4, e2022AV000846, https://doi.org/10.1029/2022AV000846, 2023.
-
+<p>
+Venturelli, R. A., Boehman, B., Davis, C., Hawkings, J. R., Johnston, S. E., Gustafson, C. D., Michaud, A. B., Mosbeux, C., Siegfried, M. R., Vick-Majors, T. J., Galy, V., Spencer, R. G. M., Warny, S., Christner, B. C., Fricker, H. A., Harwood, D. M., Leventer, A., Priscu, J. C., Rosenheim, B. E., and Team, S. S.: Constraints on the Timing and Extent of Deglacial Grounding Line Retreat in West Antarctica, AGU Advances, 4, e2022AV000846, <a href="https://doi.org/10.1029/2022AV000846"</a> , 2023.
 </p>
             
 <p><b>2021</b>
