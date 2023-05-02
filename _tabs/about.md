@@ -19,11 +19,9 @@ I am currently back in France, at <a href="https://www.ige-grenoble.fr/">IGE</a>
       <a href="https://www.nemo-ocean.eu/">NEMO</a> to realize projection ice mass loss in the Amundsen Sea region in Antarctica. I also work on the modeling of damage evolution in ice sheet models, using Stokes (viscous fluid) mechanics in combination with principles of Continuous Damage Mechanics. The idea is that, under large extensional stress, the ice can fracture, leading to the opening of crevasses. These crevasses tend to reduce the apparent viscosity and the resistance of ice. Our goal is to simulate this loss of mechanical resistance and loss of fluidity in Stokes flow models.  
 
 
-<ul>
-<li  markdown="1">
 ![logos]({{site.url}}/Images/About_IB_Logos.png)
-</li>
-</ul>
+
+
 
 
 
