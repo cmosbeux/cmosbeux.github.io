@@ -2,9 +2,6 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 5
-
-image:
-  path: /Images/About_IB_Logos.png
 ---
 
 <h1>Hi there, I'm Cyrille Mosbeux</h1>
@@ -23,3 +20,6 @@ I also study the potential causes of seasonal variability in ice flow observed a
 I am currently back in France, at <a href="https://www.ige-grenoble.fr/">IGE</a>, where I work on the coupling of Elmer/Ice with the ocean model
       <a href="https://www.nemo-ocean.eu/">NEMO</a> to realize projection ice mass loss in the Amundsen Sea region in Antarctica. I also work on the modeling of damage evolution in ice sheet models, using Stokes (viscous fluid) mechanics in combination with principles of Continuous Damage Mechanics. The idea is that, under large extensional stress, the ice can fracture, leading to the opening of crevasses. These crevasses tend to reduce the apparent viscosity and the resistance of ice. Our goal is to simulate this loss of mechanical resistance and loss of fluidity in Stokes flow models.  
 </p>
+
+
+![Desktop View](/Images/About_IB_Logos.png){: width="700" height="400" }
