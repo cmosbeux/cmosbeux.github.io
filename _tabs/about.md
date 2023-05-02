@@ -21,7 +21,7 @@ I am currently back in France, at <a href="https://www.ige-grenoble.fr/">IGE</a>
 
 
 <center>
-<img src="https://github.com/cmosbeux/cmosbeux.github.io/blob/main/Images/About_IB_Logos.png" width=50% height=50%>
+<img src="https://github.com/cmosbeux/cmosbeux.github.io/blob/main/Images/About_IB_Logos.png" width=100% height=100%>
 </center>
 
 
