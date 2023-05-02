@@ -1,7 +1,7 @@
 ---
-title: Getting Started
-author: cotes
-date: 2019-08-09 20:55:00 +0800
+title: First Post on my work
+author: Cyrille Mosbeux
+date: 2023-05-02 18:00:00 +0100
 categories: [Blogging, Introduction]
 tags: [Welcome, Introduction]
 pin: true
