@@ -6,7 +6,7 @@ categories: [Blogging, Introduction]
 tags: [Welcome, Introduction]
 pin: true
 image:
-  path: /_posts/2023-05-22-figure.pdf
+  path: /_posts/2023-05-22-figure.png
   alt: the effect of Sea Surface Height variations on ice shelf flow
 ---
 
