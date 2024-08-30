@@ -1,5 +1,5 @@
 ---
-title: First Post on my work
+title: Welcome to my new website
 author: Cyrille Mosbeux
 date: 2023-05-01 18:00:00 +0100
 categories: [Blogging, Introduction]
