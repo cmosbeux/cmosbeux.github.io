@@ -2,8 +2,8 @@
 title: Simulating ice damage in ice flow
 author: Cyrille Mosbeux
 date: 2025-17-03 08:30:00 +0100
-categories: [Blogging, Introduction]
-tags: [Welcome, Introduction]
+categories: [Blogging, ice damage and Semi-Lagrangian transport]
+tags: [Semi-Lagrangian transport, ice damage]
 pin: true
 image:
   path: https://github.com/cmosbeux/SEMI-LAGRANGIAN-PUBLICATION/tree/main/Videos/AMU_d1int_dt_test_2000-2050.gif 
