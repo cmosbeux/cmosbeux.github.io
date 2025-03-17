@@ -6,7 +6,7 @@ categories: [Blogging, ice damage and Semi-Lagrangian transport]
 tags: [Semi-Lagrangian transport, ice damage]
 pin: true
 image:
-  path: https://github.com/cmosbeux/SEMI-LAGRANGIAN-PUBLICATION/tree/main/Videos/AMU_d1int_dt_test_2000-2050.gif 
+  path: /Images/AMU_d1int_dt_test_2000-2050.gif
   alt: Simulating ice damage and transport in ice flow
 ---
 
