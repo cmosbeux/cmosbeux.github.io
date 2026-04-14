@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 <b>2026</b>
+<p>   
 Mosbeux, C., Råback, P., Gilbert, A., Brondex, J., Gillet-Chaulet, F., Jourdain, N. C., Chekki, M., Gagliardini, O., and Durand, G.: Development of a Semi-Lagrangian advection scheme in the Finite Element Model Elmer (v9.0): Application to Ice dynamics, EGUsphere, 1–26, https://doi.org/10.5194/egusphere-2025-3039, accepted for publication.
 <p>  
 
