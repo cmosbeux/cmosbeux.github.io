@@ -1,5 +1,5 @@
 ---
-title: Simulating ice damage in ice flow
+title: Antarctic ice shelves threatened by ocean warming
 author: Cyrille Mosbeux
 date: 2026-01-02 08:30:00 +0100
 categories: [Blogging, ocean-ice, modeling, Antarctica]
