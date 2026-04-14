@@ -3,11 +3,18 @@ title: Publications
 icon: fas fa-info-circle
 order: 4
 ---
-            
+<b>2026</b>
+Mosbeux, C., Råback, P., Gilbert, A., Brondex, J., Gillet-Chaulet, F., Jourdain, N. C., Chekki, M., Gagliardini, O., and Durand, G.: Development of a Semi-Lagrangian advection scheme in the Finite Element Model Elmer (v9.0): Application to Ice dynamics, EGUsphere, 1–26, https://doi.org/10.5194/egusphere-2025-3039, accepted for publication.
+<p>  
+
+<b>2025</b>
+<p>           
+Burgard, C., Jourdain, N. C., Mosbeux, C., Caillet, J., Mathiot, P., and Kittel, C.: Ocean warming threatens the viability of 60% of Antarctic ice shelves, Nature, 647, 102–108, https://doi.org/10.1038/s41586-025-09657-w, 2025.
+<p>  
 
 <b>2023</b>
 <p>
-Mosbeux, C., Padman, L., Klein, E., Bromirski, P. B., and Fricker, H. A.: Seasonal variability in Antarctic ice shelf velocities forced by sea surface height variations, The Cryosphere Discussions, 1–45 , <a href="https://doi.org/10.5194/tc-2022-153">https://doi.org/10.5194/tc-2022-153</a>, Accepted, 2022.
+Mosbeux, C., Padman, L., Klein, E., Bromirski, P. D., and Fricker, H. A.: Seasonal variability in Antarctic ice shelf velocities forced by sea surface height variations, The Cryosphere, 17, 2585–2606, https://doi.org/10.5194/tc-17-2585-2023, 2023.
 </p>
 
 <p>
